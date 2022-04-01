@@ -1,0 +1,7 @@
+Prueba Manual Infinite Scroll:
+
+Esta prueba está dedicada a scrollear una ventana y automáticamente aparecerá más texto ya que es infinito.
+
+Prueba Automática Add/Remove elements:
+
+Este test se asegura de ingresar a la página y dar click en el botón de añadir elementos por sí sola.
